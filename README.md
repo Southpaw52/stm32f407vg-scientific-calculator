@@ -1,5 +1,7 @@
 # STM32F407VG scientific calculator
 
+[![CI](https://github.com/Southpaw52/stm32f407vg-scientific-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/Southpaw52/stm32f407vg-scientific-calculator/actions/workflows/ci.yml)
+
 Touch-operated calculator firmware with portrait and landscape layouts,
 an ILI9341 display over FSMC, XPT2046 touch input and K0 orientation switching.
 
